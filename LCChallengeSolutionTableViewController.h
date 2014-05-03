@@ -1,5 +1,5 @@
 //
-//  LCViewController.h
+//  LCChallengeSolutionTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Luca Cerbella on 03/05/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface LCViewController : UIViewController
+@interface LCChallengeSolutionTableViewController : UITableViewController
 
 @end
